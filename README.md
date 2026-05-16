@@ -1,4 +1,4 @@
-# KasirKu 🛒
+# KasirKita 🛒
 Sistem kasir sederhana berbasis web — by Hunar
 
 ## Fitur

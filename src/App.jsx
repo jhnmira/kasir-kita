@@ -170,7 +170,7 @@ export default function App() {
           <div style={{ width: 28, height: 28, background: "#c8f04a", borderRadius: 6, display: "flex", alignItems: "center", justifyContent: "center" }}>
             <span style={{ color: "#0f0f13", fontSize: 14, fontWeight: 700 }}>K</span>
           </div>
-          <span style={{ fontWeight: 700, fontSize: 15, letterSpacing: "-.02em" }}>KasirKu</span>
+          <span style={{ fontWeight: 700, fontSize: 15, letterSpacing: "-.02em" }}>KasirKita</span>
           <span style={{ fontSize: 11, color: "#555", marginLeft: 4 }}>by Hunar</span>
         </div>
         <div style={{ display: "flex", gap: 4, marginLeft: "auto" }}>
